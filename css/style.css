@@ -2322,8 +2322,8 @@ nav.main-navigation .navbar-nav .btn:hover{
 
  ***/
 .subscribe-newsletter {
-    background-color: #f5f5f5;
-    text-align: center;
+    
+    text-align: relative;
     padding: 45px 0px 50px 0px;
 }
 .subscribe-newsletter h2 {
@@ -2582,7 +2582,7 @@ nav.main-navigation .navbar-nav .btn:hover{
 }
 
 .main-footer .links-widget .list li a{
-	position:relative;
+	position:center;
 	display:block;
 	line-height:24px;
 	padding:0px 0px 0px 25px;
