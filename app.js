@@ -63,9 +63,9 @@
 
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyCix3AMIl1I8DgTZAvQlW3YNhpbLw7nrOA',
-  authDomain: 'ugotest-9d2c1.firebaseapp.com',
-  projectId: 'ugotest-9d2c1'
+  apiKey: 'AIzaSyAHbsDbew_iYsNh3ts5PDFoUFkHOCj-6IU',
+  authDomain: 'ugotest-da9de.firebaseapp.com',
+  projectId: 'ugotest-da9de'
 });
 
 // Initialize Cloud Firestore through Firebase
